@@ -1,2 +1,1 @@
-# PET-1
-happydog
+# virtual-pet-1
